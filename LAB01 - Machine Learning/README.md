@@ -1,8 +1,8 @@
-# Projeto Lab - Desafio Machine Learning
+# Desafio Machine Learning 🤖
 
 Durante o lab, seguindo as orientações, pude criar um modelo de previsão para uma suposta empresa de aluguel de bicicletas, com a finalidade de, a partir de dados referentes a um histórico de aluguel de bicicletas, prever o número de bicicletas alugadas esperadas em um determinado dia, considerando características meteorológicas e sazonais, inclusive. 
 
-## Passo a passo do projeto:
+## 📝 Passo a passo do projeto:
 
 O primeiro passo consiste em logar na conta Microsof Azure e criar um novo Recurso, voltado ao projeto, com isso iremos criar um novo Workspace de Azure Machine Learning e a partir dele acessar o Machine Learning Studio. 
 
@@ -41,6 +41,8 @@ Uma vez que implantação foi bem sucessida, já será possível testá-la. Para
  }
 ````
  E na sequência podemos dar início ao teste, que irá retornar como resposta um valor correspondente ao número de aluguéis previstos em um determinado dia, no caso esse valor foi de: 344.7978642449826.
+
+As informações e detalhes de configuração de cada passo, podem ser encontradas na página da [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html).
 
  
 
