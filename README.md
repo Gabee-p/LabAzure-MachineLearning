@@ -40,7 +40,7 @@ Uma vez que implantação foi bem sucessida, já será possível testá-la. Para
    "GlobalParameters": 1.0
  }
 ````
- E na sequência podemos dar início ao teste, que irá retornar como resposta um valor correspondente ao número de aluguéis previstos em um determinado dia, no caso esse valor foi de 344.7978642449826
+ E na sequência podemos dar início ao teste, que irá retornar como resposta um valor correspondente ao número de aluguéis previstos em um determinado dia, no caso esse valor foi de: 344.7978642449826.
 
  
 
