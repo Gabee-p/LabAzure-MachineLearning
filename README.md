@@ -17,8 +17,8 @@ Após a conclusão do treinamento, é possível verificar qual foi o melhor mode
 O próximo passo será implantar e testar o modelo, então na guia do modelo selecionamos a opção Deploy (implantar) e a opção Web Service. Abrindo a janela de configurações fazemos os ajustes necessários e damos início a implantação, que deve durar alguns minutos. 
 
 Uma vez que implantação foi bem sucessida, já será possível testá-la. Para isso, vamos entrar na guia Endpoint (pontos de extremidade), selecionar o modelo implantado e clicar na aba "teste". No painel com o nome "Input data to test endpoint" o modelo JSON será substituído pelo seguinte: 
-
- {
+````
+{
    "Inputs": { 
      "data": [
        {
@@ -39,7 +39,7 @@ Uma vez que implantação foi bem sucessida, já será possível testá-la. Para
    },   
    "GlobalParameters": 1.0
  }
-
+````
  E na sequência podemos dar início ao teste, que irá retornar como resposta um valor correspondente ao número de aluguéis previstos em um determinado dia, no caso esse valor foi de 344.7978642449826
 
  
