@@ -8,11 +8,11 @@ A ferramenta tem por objetivo a extração de texto de imagens em que é possív
 
 Para utilizar a ferramenta, após acessar o [Studio Vision](https://portal.vision.cognitive.azure.com) você irá selecionar a aba **Optical** **Character** **Recognition**, e quando a caixa com a opção "Extract text from images" aparecer, clicamos em *Try* *it* *out*.
 
-<img src="Img1.png">
+<img src="Imagem/Img1.png">
 
 Já na ferramenta, é possível experimentar utilizando as imagens disponíveis, ou então adicionar suas próprias imagens para experimento. 
 
-<img src="Img2.png">
+<img src="Imagem/Img2.png">
 
 ## Análise de imagem - Adicionar legendas à imagem
 
@@ -20,11 +20,11 @@ Já em relação a ferramenta de adição de legendas à imagem, temos uma funç
 
 No portal do [Studio Vision](https://portal.vision.cognitive.azure.com) você irá selecionar a aba **Imagem analysis**, e na opção "Add captions to images" clicar em *Try out*.
 
-<img src="Img3.png">
+<img src="Imagem/Img3.png">
 
 Uma vez na ferramenta, é possível explorar as opções oferecidas para teste, ou então adicionar suas próprias imagens e experimentar as funcionalidades do programa.
 
-<img src="Img4.png">
+<img src="Imagem/Img4.png">
 
 ## 📝 Considerações 
 

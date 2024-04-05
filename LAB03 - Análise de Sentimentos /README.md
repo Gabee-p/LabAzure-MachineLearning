@@ -7,21 +7,21 @@ Esse recurso de linguagem permite que o texto seja analisado afim de perceber o 
 
 Dentro do [Language Studio](https://language.cognitive.azure.com), vamos selecionar a guia "Classify text", e entre as opções que serão exibidas vamos localizar a **Analyze sentiment and mine opinions**, e clicar em *Try out*.
 
-<img src="imgA.png">
+<img src="Imagem/imgA.png">
 
 Dentro da ferramenta devemos primeiramente selecionar a língua do texto que pretendemos analisar, e na sequência podemos copiar e colar o conteúdo direto na caixa de texto, ou então podemos adicionar um arquivo de texto.
 
-<img src="imgB.png">
+<img src="Imagem/imgB.png">
 
 Uma vez adicionado o texto, vamos executar a função clicando em **Run**. Os resultado serão exibidos logo abaixo, onde podemos visualizar a análise de sentimentos do documento como um todo, ou então observar a análise individual de cada sentença, como é possível observar nas imagens abaixo.
 
-<img src="imgC.png">
+<img src="Imagem/imgC.png">
 
-<img src="imgD.png">
+<img src="Imagem/imgD.png">
 
-<img src="imgE.png">
+<img src="Imagem/imgE.png">
 
-<img src="imgF.png">
+<img src="Imagem/imgF.png">
 
 ## Considerações 💭
 
